@@ -1,3 +1,5 @@
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <h1 align="center">Hi 👋, I'm Teyfik!</h1>
 <h3 align="center">A full stack developer trying to learn something about machine learning and artificial intelligence.</h3>
 
